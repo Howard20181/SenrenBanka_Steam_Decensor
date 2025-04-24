@@ -1,10 +1,10 @@
 # Senren Banka Steam Decensor
 
-Base on <https://vndb.org/r131317>
+Based on <https://vndb.org/r131317>
 
 ## How to Use
 
-  Unzip all files to the same folder as data.xp3
+  Unzip all files to the same folder as `data.xp3`
 
   If the game file `patch_extra.xp3` exists then keep the patch name `patch_adult.xp3`, if not then rename `patch_adult.xp3` to `patch2.xp3`
 
